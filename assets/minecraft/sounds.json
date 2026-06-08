@@ -39,13 +39,14 @@
     "session.status.wounded.occultist.weapon": {"sounds": ["session/status/wounded/occultist/weapon"]},
     "session.status.wounded.extraterrestrial.weapon": {"sounds": ["session/status/wounded/extraterrestrial/weapon"]},
     
+    "session.status.dead": {"sounds": ["session/status/dead/1"]},
+    
     "session.terror.theme.jester": {"sounds": ["session/terror/theme/jester"]},
     "session.terror.theme.jack": {"sounds": ["session/terror/theme/jack"]},
     "session.terror.theme.tester": {"sounds": ["session/terror/theme/tester"]},
     "session.terror.theme.hunter": {"sounds": ["session/terror/theme/hunter"]},
     "session.terror.theme.phantom": {"sounds": ["session/terror/theme/phantom"]},
     "session.terror.theme.occultist": {"sounds": ["session/terror/theme/occultist"]},
-    "session.terror.theme.extraterrestrial": {"sounds": ["session/terror/theme/extraterrestrial"]},
+    "session.terror.theme.extraterrestrial": {"sounds": ["session/terror/theme/extraterrestrial"]}
 
-    "session.status.dead": {"sounds": ["session/status/dead/1"]}
 }
