@@ -1,0 +1,24 @@
+name: Deadlands
+
+on:
+  push:
+    branches: [ main ]
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+uses: actions/checkout@v4
+
+name: Create zip
+        run: |
+          zip -r release.zip ./*
+
+name: Create / update release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest
+          name: Latest
+          files: release.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
