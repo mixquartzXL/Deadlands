@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/lobby/mixquartz",
+  "textures": {
+    "0": "minecraft:item/lobby/artzore"
+  }
+}

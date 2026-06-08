@@ -1,0 +1,12 @@
+{
+  "providers": [
+    {
+      "type": "space",
+      "advances": {"☺": -1}
+    },
+    {
+      "type": "space",
+      "advances": {"♣": 2}
+    }
+  ]
+}

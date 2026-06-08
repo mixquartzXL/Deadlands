@@ -1,0 +1,51 @@
+{
+    "lobby.start.play": {"sounds": ["lobby/start/play"]},
+    "lobby.start.cancel": {"sounds": ["lobby/start/cancel"]},
+    "lobby.start.limit": {"sounds": ["lobby/start/limit"]},
+    "lobby.start.impossible": {"sounds": ["lobby/start/impossible"]},
+    "lobby.start.ambient": {"sounds": ["lobby/start/ambient"]},
+    "lobby.voting.start": {"sounds": ["lobby/voting/start"]},
+    "lobby.voting.ready": {"sounds": ["lobby/voting/ready"]},
+    "lobby.voting.unready": {"sounds": ["lobby/voting/unready"]},
+    "lobby.voting.vote": {"sounds": ["lobby/voting/vote"]},
+    "lobby.gate.open": {"sounds": ["lobby/gate/open"]},
+    "lobby.gate.close": {"sounds": ["lobby/gate/close"]},
+
+    "session.awakening.role": {"sounds": ["session/awakening/role"]},
+    "session.awakening.reroll": {"sounds": ["session/awakening/reroll"]},
+    "session.awakening.start": {"sounds": ["session/awakening/start"]},
+    "session.awakening.transition": {"sounds": ["session/awakening/transition"]},
+    "session.awakening.ready": {"sounds": ["session/awakening/ready"]},
+    "session.awakening.unready": {"sounds": ["session/awakening/unready"]},
+
+    "session.awakening.jack": {"sounds": ["session/awakening/maniac/jack1","session/awakening/maniac/jack2"]},
+    "session.awakening.tester": {"sounds": ["session/awakening/maniac/tester1","session/awakening/maniac/tester2"]},
+    "session.awakening.phantom": {"sounds": ["session/awakening/maniac/phantom1","session/awakening/maniac/phantom2"]}, 
+    "session.awakening.hunter": {"sounds": ["session/awakening/maniac/hunter1","session/awakening/maniac/hunter2"]},
+    "session.awakening.occultist": {"sounds": ["session/awakening/maniac/occultist1","session/awakening/maniac/occultist2"]},
+    "session.awakening.jester": {"sounds": ["session/awakening/maniac/jester1","session/awakening/maniac/jester2"]},
+    "session.awakening.extraterrestrial": {"sounds": ["session/awakening/maniac/extraterrestrial1","session/awakening/maniac/extraterrestrial2"]},
+
+    "session.altar.success": {"sounds": ["session/altar/success"]},
+    "session.altar.fail": {"sounds": ["session/altar/fail1","altar/fail2"]},
+
+    "session.terror.heartbeat": {"sounds": ["session/terror/heartbeat/1","session/terror/heartbeat/2","session/terror/heartbeat/3"]},
+    
+    "session.status.wounded.jester.weapon": {"sounds": ["session/status/wounded/jester/weapon"]},
+    "session.status.wounded.jack.weapon": {"sounds": ["session/status/wounded/jack/weapon"]},
+    "session.status.wounded.tester.weapon": {"sounds": ["session/status/wounded/tester/weapon"]},
+    "session.status.wounded.hunter.weapon": {"sounds": ["session/status/wounded/hunter/weapon"]},
+    "session.status.wounded.phantom.weapon": {"sounds": ["session/status/wounded/phantom/weapon"]},
+    "session.status.wounded.occultist.weapon": {"sounds": ["session/status/wounded/occultist/weapon"]},
+    "session.status.wounded.extraterrestrial.weapon": {"sounds": ["session/status/wounded/extraterrestrial/weapon"]},
+    
+    "session.terror.theme.jester": {"sounds": ["session/terror/theme/jester"]},
+    "session.terror.theme.jack": {"sounds": ["session/terror/theme/jack"]},
+    "session.terror.theme.tester": {"sounds": ["session/terror/theme/tester"]},
+    "session.terror.theme.hunter": {"sounds": ["session/terror/theme/hunter"]},
+    "session.terror.theme.phantom": {"sounds": ["session/terror/theme/phantom"]},
+    "session.terror.theme.occultist": {"sounds": ["session/terror/theme/occultist"]},
+    "session.terror.theme.extraterrestrial": {"sounds": ["session/terror/theme/extraterrestrial"]},
+
+    "session.status.dead": {"sounds": ["session/status/dead/1"]}
+}

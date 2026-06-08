@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/weapon/experimental_knife_default",
+  "textures": {
+    "1": "minecraft:item/weapon/experimental_knife_infected"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/lantern/lantern_of_illusions"
+  },
+	"oversized_in_gui": true
+}

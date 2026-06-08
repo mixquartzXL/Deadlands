@@ -1,0 +1,57 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/deadlands.png",
+      "height": 9,
+      "ascent": 4,
+      "chars": [""]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/transition.png",
+      "height": 4000,
+      "ascent": 3000,
+      "chars": ["#"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/status.png",
+      "height": 8,
+      "ascent": 7,
+      "chars": ["❤🩸😵👥🔒💀🚪"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/awakening/reroll.png",
+      "height": 16,
+      "ascent": 10,
+      "chars": ["🔄"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/awakening/maniac.png",
+      "height": 32,
+      "ascent": 13,
+      "chars": ["abcdefg"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/awakening/perk.png",
+      "height": 32,
+      "ascent": 18,
+      "chars": ["ABCDEFGHIJKLMNOPQRSTU"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/awakening/lantern.png",
+      "height": 32,
+      "ascent": 16,
+      "chars": ["абвгдеё"]
+    },
+    {
+      "type": "space",
+      "advances": {"": -1.16}
+    }
+  ]
+}

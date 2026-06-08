@@ -1,0 +1,7 @@
+{
+  "model": {
+    "type": "minecraft:model",
+    "model": "minecraft:item/weapon/experimental_knife_default"
+  },
+	"oversized_in_gui": true
+}

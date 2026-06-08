@@ -1,0 +1,6 @@
+{
+    "parent": "item/lantern/lantern_of_life",
+    "textures": {
+        "1": "item/lantern/stabilization_lantern"
+    }
+}
