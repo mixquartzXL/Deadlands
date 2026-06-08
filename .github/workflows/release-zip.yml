@@ -1,4 +1,4 @@
-name: Deadlands
+name: auto zip
 
 on:
   push:
@@ -12,13 +12,13 @@ uses: actions/checkout@v4
 
 name: Create zip
         run: |
-          zip -r release.zip ./*
+          zip -r project.zip ./*
 
 name: Create / update release
         uses: softprops/action-gh-release@v1
         with:
           tag_name: latest
           name: Latest
-          files: release.zip
+          files: project.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
