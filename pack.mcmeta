@@ -2,14 +2,8 @@
   "pack": {
     "description": "Artzore & mixquartz",
     "pack_format": 88,
-    "min_format": [
-      81,
-      0
-    ],
-    "max_format": [
-      107,
-      1
-    ]
+    "min_format": 81,
+    "max_format": 88
   },
   "filter": {
     "block": [
