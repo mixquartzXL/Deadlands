@@ -32,7 +32,7 @@
       "type": "bitmap",
       "file": "minecraft:font/awakening/maniac.png",
       "height": 32,
-      "ascent": 13,
+      "ascent": 18,
       "chars": ["abcdefg"]
     },
     {
